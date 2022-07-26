@@ -94,11 +94,22 @@ a.social {
     height:100px;
     color: #fff;
     background-color: brown;
+    
+}
+.circle1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: brown;
 }
 
 .circle i {
     position: relative;
     top: 30px;
+}
+
+.footer h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .footer p {
