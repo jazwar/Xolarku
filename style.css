@@ -74,31 +74,29 @@ a.social {
 }
 
 .contact {
-    background: url(https://wallpaperaccess.com/full/1867010.jpg) no-repeat center center;
+    background: url(img/solar4.bmp) no-repeat center center;
     background-size: cover;
     padding-bottom: 20%;
     padding-top: 20%;
+    font-size: 20px;
     color: #fff;
 }
 
 /* footer */
 .footer {
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
-.circle {
-    display: inline-block;
-    border-radius: 50%;
-    width: 100px;
-    margin: auto;
-    height:100px;
-    color: #fff;
-    background-color: brown;
-    
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-.circle1 {
+
+
+.circle {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
     color: brown;
 }
 
@@ -108,8 +106,8 @@ a.social {
 }
 
 .footer h4 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .footer p {
