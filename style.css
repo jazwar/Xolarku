@@ -44,6 +44,24 @@
     font-weight: 500;
 }
 
+.display-6 {
+    font-weight: 400;
+    font-size: 30px;
+    }
+
+.display-7 {
+    color: rgb(12, 12, 12);
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.display-7 span {
+    color: #F09415;
+    font-weight: 500;
+}
+
+
+
 /*--Card--*/
 .solution-text {
     color: #fff;
